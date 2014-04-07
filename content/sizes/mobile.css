@@ -1,4 +1,12 @@
 
+	#mobile-menu-button{
+	display:block;
+	}
+	
+		#mobile-menu{
+		display:block;
+		}
+
 	#top-container{
 	height:200px;
 	}
