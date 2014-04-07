@@ -3,6 +3,9 @@
 <head>
 	<title>Testi</title>
 	<link href="style.css" rel="stylesheet" type="text/css"/>
+	
+	<script lang="javascript" src="content/plugins/jQuery.js"></script>
+	<script lang="javascript" src="content/js/responsivity.js"></script>
 </head>
 <body>
 	<div id="header">
