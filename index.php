@@ -1,8 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<meta name="viewport" content="width=device-width, user-scalable=no">
+
 	<title>Testi</title>
+	
 	<link href="style.css" rel="stylesheet" type="text/css"/>
+	<link id="size-stylesheet" href="content/sizes/wide.css" rel="stylesheet" type="text/css"/>
 	
 	<script lang="javascript" src="content/plugins/jQuery.js"></script>
 	<script lang="javascript" src="content/js/responsivity.js"></script>
