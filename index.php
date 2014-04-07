@@ -26,6 +26,7 @@
 	<div id="page">
 		<div id="header">
 			<div id="header-container">
+				<img id="logo" src="content/img/logo.png"/>
 				<img id="mobile-menu-button" onmousedown="openMenu()" src="content/img/mobilemenu.png"/>
 			</div>
 		</div>
@@ -33,6 +34,7 @@
 		<div id="top">
 			<div id="top-container">
 				<h1>Welcome.</h1>
+				<p>Description</p>
 			</div>
 		</div>
 		

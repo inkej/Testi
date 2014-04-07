@@ -12,5 +12,13 @@
 	}
 
 	#top-container h1{
-	font-size:30px;
+	font-size:20px;
+	margin:10px;
+	text-align:center;
+	}
+	
+	#top-container p{
+	font-size:14px;
+	margin:10px;
+	text-align:center;
 	}
